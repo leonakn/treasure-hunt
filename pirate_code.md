@@ -38,6 +38,8 @@ X.    Any man deserting the ship in battle or rewriting history on the
 * **Note to the First mate:** make sure you revise article I of the pirate code
   above, so you get your fair share of the prize!
 
+
 Captain      : Theo Nass
 Quartermaster: Leona
-First mate   : NAME HERE
+First mate   : Andreia
+
